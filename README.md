@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mayank-kumar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-kumar01" height="30" width="40" /></a>
-<a href="https://instagram.com/imayank.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imayank.22" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vairagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-kumar01" height="30" width="40" /></a>
+<a href="https://instagram.com/vairagi.22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imayank.22" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mayank_jha001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayank_jha001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mayank_k001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mayank_k001" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mayank_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="mayank_001" height="30" width="40" /></a>
