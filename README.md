@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0x_mayank22" target="blank"><img src="https://img.shields.io/twitter/follow/0x_mayank22?logo=twitter&style=for-the-badge" alt="0x_mayank22" /></a> </p>
 
-- 🔭 I’m currently working on **Auto massaging apk.**
+- 🔭 I’m currently working on **Auto messaging apk.**
 
 - 🌱 I’m currently learning **DSA , Machine learning.**
 
